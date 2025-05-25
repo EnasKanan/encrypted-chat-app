@@ -14,3 +14,5 @@ Prerequisites
 - Install required library:
   ```bash
   pip install cryptography
+![encrypted_chat_terminal](https://github.com/user-attachments/assets/30d49d86-af2f-47bc-beb4-c030fb72b864)
+
