@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 🔐 Encrypted Chat App
 
 A simple peer-to-peer encrypted chat application using Python sockets and symmetric encryption with Fernet (AES-based).
