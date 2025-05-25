@@ -10,6 +10,7 @@ Features
 Try it yourself
 Check out the [GitHub repository](https://github.com/EnasKanan/encrypted-chat-app)
 
-![Terminal Screenshot](../encrypted_chat_terminal.png)
+!
+[Terminal Screenshot](../encrypted_chat_terminal.png)
 
 © 2025 Enas Hasan Kanan | MIT License
